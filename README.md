@@ -20,19 +20,19 @@ I'm passionate about Programming and web development. <br />
 <br /> 
 #### STATUS: <br />
 - 🔭 I’m currently working on: <br />
-> Developing a community for the Tunisian programmers <br />
-> Create a suitable technical content in Tunisia <br />
-> Blogging in my site // KMx404.github.io <br /> <br />
+> / Developing a community for the Tunisian programmers <br />
+> / Create a suitable technical content in Tunisia <br />
+> / Blogging in my site // KMx404.github.io <br /> <br />
 
 - 🌱 I’m currently learning: <br />
-> Python, JavaScript <br />
-> Linear Algebra and I'm taking calculus lessons. <br /> <br />
+> / Python, JavaScript <br />
+> / Linear Algebra and I'm taking calculus lessons. <br /> <br />
 
 
 
 
 - 📫 How to reach me: <br />
-> You can contact me via email: KMx404@protonmail.com <br />
-> Or send a message via Facebook. Facebook.com/KMx404 <br />
+> / You can contact me via email: KMx404@protonmail.com <br />
+> / Or send a message via Facebook. Facebook.com/KMx404 <br />
 
 
