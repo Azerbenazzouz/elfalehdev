@@ -19,17 +19,17 @@ I'm an 18y old, Tunisian. Majoring in computer science. :octocat: <br />
 I'm passionate about Programming and web development. <br />
 <br /> 
 #### STATUS: <br />
-- 🔭 I’m currently working on: 
-*developing a community for the Tunisian programmers
-*Create a suitable technical content in Tunisia 
-*Blogging in my site // KMx404.github.io 
+- 🔭 I’m currently working on: <br />
+*developing a community for the Tunisian programmers <br />
+*Create a suitable technical content in Tunisia <br />
+*Blogging in my site // KMx404.github.io <br /> <br />
 
-- 🌱 I’m currently learning: 
-*Python, JavaScript
-*Linear Algebra and I'm taking calculus lessons. 
+- 🌱 I’m currently learning: <br />
+*Python, JavaScript <br />
+*Linear Algebra and I'm taking calculus lessons. <br /> <br />
 
-- 📫 How to reach me:
-You can contact me via email: KMx404@protonmail.com 
-or send a message via Facebook. Facebook.com/KMx404
+- 📫 How to reach me: <br />
+You can contact me via email: KMx404@protonmail.com <br />
+or send a message via Facebook. Facebook.com/KMx404 <br />
 
 
