@@ -27,7 +27,8 @@ I'm passionate about Programming and web development. <br />
 
 - 🌱 I’m currently learning: <br />
 > 1. Python, JavaScript and alot more... <br />
-> 2. Linear Algebra and I'm taking calculus lessons. <br /> <br />
+> 2. Linear Algebra and I'm taking calculus lessons. <br /> 
+> 3. Public speaking, Business management. <br /> <br />
 
 
 - 📫 How to reach me: <br />
