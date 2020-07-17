@@ -23,7 +23,7 @@ I'm passionate about Programming and web development >> A Web developer and cont
 > $. Starting my own company @Tuntech. <br />
 > 1. Developing a community for the Tunisian programmers. <br />
 > 2. Create a suitable technical content in Tunisia. <br />
-> 3. Share technical content on my blog. <br /> 
+> 3. Share my expertise in programming in a form of articles on my blog. <br /> 
 
 - 🌱 I’m currently learning: <br />
 > 1. Python, JavaScript and alot more... <br />
