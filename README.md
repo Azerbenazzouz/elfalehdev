@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello, My name is Mohamed E.Faleh also known as (@KMx404) on the internet. <br />
-I'm an 18y old, Tunisian. Majoring in computer science. :octocat: <br />
+An 18y old, Tunisian. Majoring in computer science. :octocat: <br />
 I'm passionate about Programming and web development <br /> 
 I do web development and content creation. <br />
 <br /> 
