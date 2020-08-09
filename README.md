@@ -21,9 +21,9 @@
 
 - 🔭 I’m currently working on developing a community for the Tunisian Programmers <br />
 - 🌱 I’m currently learning Python, JS, ReactJS and more... <br />
-- 👯 I’m looking to collaborate on any open source projects (Web developemnt or Python related) <br />
+- 👯 I’m looking to collaborate on any open source projects (Web development or Python related) <br />
 - 🤔 I’m looking for help with My public repositories (Read the source code. And you can help wiht Pull requests & issues) <br />
-- 💬 Ask me about Anything tech related. <br />
+- 💬 Ask me about Anything [Here](https://ask.fm/Kirito_Samafx101). <br />
 - 📫 How to reach me: You can contact me via E-mail or Social Media <br />
 - 😄 Pronouns: You call someone a boomerang which doesn't come back! <br />
 - ⚡ Fun fact: I have a banch of those, Contact me if you wanna hear some! <br />
