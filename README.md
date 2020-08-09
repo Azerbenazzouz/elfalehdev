@@ -18,6 +18,9 @@
 </a>
                                <br />
                                <br />
+                               <br />
+                               
+  I'm mohamed, An 18yo self-taught Programmer from Tunisia.  <br />
 
 - 🔭 I’m currently working on developing a community for the Tunisian Programmers <br />
 - 🌱 I’m currently learning Python, JS, ReactJS and more... <br />
