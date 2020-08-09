@@ -36,4 +36,11 @@ I do web development and content creation. <br />
 > 1. You can contact me via email: KMx404@protonmail.com <br />
 > 2. Or send a message via Facebook. https://www.Facebook.com/KMx404 <br />
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KMx404&show_icons=true&include_all_commits=true" alt="KMx404's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMx404&layout=compact&theme=radical" />
+</a>
 
