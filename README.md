@@ -32,4 +32,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KMx404&show_icons=true&include_all_commits=true" alt="KMx404's github stats" />
 </a>
 
+<br />
+- 🔭 I’m currently working on developing a community for the Tunisian Programmers <br />
+- 🌱 I’m currently learning Python, JS, ReactJS and more...
+- 👯 I’m looking to collaborate on any open source projects (Web developemnt or Python related) 
+- 🤔 I’m looking for help with My public repositories (Read the source code. And you can help wiht Pull requests & issues) 
+- 💬 Ask me about Anything tech related. 
+- 📫 How to reach me: You can contact me via E-mail or Social Media 
+- 😄 Pronouns: You call someone a boomerang which doesn't come back! 
+- ⚡ Fun fact: I have a banch of those, Contact me if you wanna hear some! 
 
