@@ -29,7 +29,7 @@
 - 💬 Ask me about Anything [Here](https://ask.fm/Kirito_Samafx101). <br />
 - 📫 How to reach me: You can contact me via Email or Social Media <br />
 - 😄 Pronouns: You call someone a boomerang which doesn't come back! <br />
-- ⚡ Fun fact: I have a banch of those, Contact me if you wanna hear some! <br />
+- ⚡ Fun fact: I have banch of those, Contact me if you wanna hear some! <br />
 
 
 
