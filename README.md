@@ -1,19 +1,19 @@
 ### 01101000 01100101 01101100 01101100 01101111  👋
 
 
-<a href="https://KMx404.github.io">
+<a target="_blank" href="https://KMx404.github.io">
   <img align="left" alt="KMx404 | Blog" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/KMx404">
+<a target="_blank" href="https://twitter.com/KMx404">
   <img align="left" alt="KMx404 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-   <a href="https://www.instagram.com/KMx404/">
+   <a target="_blank" href="https://www.instagram.com/KMx404/">
   <img align="left"  eight="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  /></a>
    
-<a href="https://www.facebook.com/KMx404">
+<a target="_blank" href="https://www.facebook.com/KMx404">
   <img align="left" alt=KMx404's Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
 </a> 
-<a href="https://discord.gg/sg5ZFVJ">
+<a target="_blank" href="https://discord.gg/sg5ZFVJ">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
                                <br />
