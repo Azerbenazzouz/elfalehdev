@@ -17,8 +17,7 @@
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
                                <br />
-                               <br />  
-                               <br />
+                               
                                <br />
 <img src="https://komarev.com/ghpvc/?username=KMx404" alt="KMx404" />
 <br />
