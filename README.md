@@ -16,12 +16,10 @@
 <a target="_blank" href="https://discord.gg/sg5ZFVJ">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-                               <br />
                                
-                            
+  <br />                          
 <img src="https://komarev.com/ghpvc/?username=KMx404" alt="KMx404" />
-<br />
-                               
+<br />                         
   I'm Mohamed, An 18yo self-taught Programmer from Tunisia. 🇹🇳 <br />
 
 - 🔭 I’m currently working on developing a community for the Tunisian Programmers <br />
