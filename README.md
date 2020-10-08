@@ -21,7 +21,7 @@ class AboutMe(DetailView):
   
   #get all my favourite  programming languages
   def get_fav_lang(self):
-      languages = ['python 🐍 ', 'javascript😺 ', 'C++']
+      languages = ['python 🐍 ', 'javascript😺 ', 'C++❤️']
       return languages
       
   #get all my favourite frameworks
