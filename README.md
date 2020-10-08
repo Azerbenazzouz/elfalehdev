@@ -13,8 +13,8 @@ class AboutMe(DetailView):
   def get_social_contact(self)
     social_media_links = {
       "facebook": "facebook.com/KMx404"
-      "instagram: "instagraMc;om/KMx404"
-      "twitter": "twitter.com/Abderrahmaneend"
+      "instagram": "instagraMc;om/KMx404"
+      "twitter": "twitter.com/KMx404"
       "dev community" : "dev.to/KMx404"      
     }    
     return social_media_links 
