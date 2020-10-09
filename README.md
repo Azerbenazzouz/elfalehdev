@@ -26,7 +26,7 @@ class AboutMe(DetailView):
       
   #get all my favourite frameworks
   def get_fav_frameworks(self):
-    frameworks = ['vuejs 🔫 ', 'react 🎯', 'bootstrap✨' ]
+    frameworks = ['django 🔫 ', 'react 🎯', 'bootstrap✨' ]
     return frameworks
    
   #get the databases that i can use
