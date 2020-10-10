@@ -30,7 +30,7 @@ class AboutMe(DetailView):
     return frameworks
    
   #get the databases that i can use
-  def get_databases(self)
+  def get_databases(self):
    data_bases = ['mysql 👍', 'mongodb 🍃']
    return data_bases
    ```
