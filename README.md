@@ -10,7 +10,7 @@ class AboutMe(DetailView):
   website = "KMx404.github.io"
   
    #get social media links
-  def get_social_contact(self)
+  def get_social_contact(self):
     social_media_links = {
       "facebook": "facebook.com/KMx404"
       "instagram": "instagram.com/KMx404"
