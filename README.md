@@ -34,3 +34,5 @@ class AboutMe(DetailView):
    data_bases = ['mysql 👍', 'mongodb 🍃']
    return data_bases
    ```
+   
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KMx404)](https://github.com/anuraghazra/github-readme-stats) 
