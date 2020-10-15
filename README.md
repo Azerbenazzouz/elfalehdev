@@ -35,4 +35,4 @@ class AboutMe(DetailView):
    return data_bases
    ```
    
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?KMx404=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KMx404)](https://github.com/anuraghazra/github-readme-stats)
