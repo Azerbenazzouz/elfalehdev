@@ -34,5 +34,3 @@ class AboutMe(DetailView):
    data_bases = ['mysql 👍', 'mongodb 🍃']
    return data_bases
    ```
-<img src="https://ibb.co/k6D1bNt"/>
-<a href="https://ibb.co/k6D1bNt" style="width:82px; height:86px" title="White flower" alt="Flower"></a>
