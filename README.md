@@ -36,3 +36,4 @@ class AboutMe(DetailView):
    ```
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KMx404)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMx404&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KMx404)](https://github.com/anuraghazra/github-readme-stats)
