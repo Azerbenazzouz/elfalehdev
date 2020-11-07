@@ -19,7 +19,7 @@ class AboutMe(DetailView):
     }    
     return social_media_links 
   
-  #get all my favourite  programming languages
+  #get all my favorite  programming languages
   def get_fav_lang(self):
       languages = ['python 🐍 ', 'javascript😺 ', 'C++❤️']
       return languages
