@@ -24,7 +24,7 @@ class AboutMe(DetailView):
       languages = ['python 🐍 ', 'javascript😺 ', 'C++❤️']
       return languages
       
-  #get all my favourite frameworks
+  #get all my favorite frameworks
   def get_fav_frameworks(self):
     frameworks = ['django 🔫 ', 'react 🎯', 'bootstrap✨' ]
     return frameworks
