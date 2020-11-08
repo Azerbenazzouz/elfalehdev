@@ -33,6 +33,21 @@ class AboutMe(DetailView):
   def get_databases(self):
    data_bases = ['mysql 👍', 'mongodb 🍃']
    return data_bases
+   
+   #current repositories I am working on 
+   def get_current_repos(self): 
+    repos = ['noahark', 'mush', 'RTLT', 'RPdevtools', 'fridayos', 'ReactDailyPlanner']
+    return repos 
+   
+   
+   
+   
    ```
+
+KMx404/
+
+1
+
+
    
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KMx404)](https://github.com/anuraghazra/github-readme-stats) 
