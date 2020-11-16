@@ -43,4 +43,5 @@ class AboutMe(DetailView):
    ```
    
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KMx404)](https://github.com/anuraghazra/github-readme-stats) 
-https://github-profile-trophy.vercel.app/?username=KMx404&theme=alduin
+   
+[![trophy] (https://github-profile-trophy.vercel.app/?username=KMx404&theme=alduin)
