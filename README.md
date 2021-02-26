@@ -7,15 +7,14 @@ class AboutMe(DetailView):
   name = "Mohamed E.Faleh"
   location = "Qabis, Tunisia"
   education = "Computer Science"
-  website = "KMx404.github.io"
+  website = "Elfalehdev.github.io"
   
    #get social media links
   def get_social_contact(self):
     social_media_links = {
-      "facebook": "facebook.com/KMx404"
-      "instagram": "instagram.com/elfaleh.dev"
-      "twitter": "twitter.com/KMx404"
-      "dev community" : "dev.to/KMx404"      
+      "facebook": "facebook.com/elfalehdev"
+      "instagram": "instagram.com/elfalehdev"
+      "twitter": "twitter.com/elfalehdev"
     }    
     return social_media_links 
   
