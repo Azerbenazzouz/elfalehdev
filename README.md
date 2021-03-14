@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elfalehdev&label=Profile%20views&color=0e75b6&style=flat" alt="elfalehdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elfalehdev" alt="elfalehdev" /></a> </p>
-
 - 🔭 I’m currently working on [Building A Community](https://github.com/TunisianProgrammingLovers)
 
 - 🌱 I’m currently learning **ExpressJS**
