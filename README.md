@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a href="https://elfalehdev.github.io/content/programming/articles/codesmartcodeless/index.html" target="_blank"> Code smart, Code less </a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
