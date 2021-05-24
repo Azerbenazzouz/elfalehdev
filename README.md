@@ -7,17 +7,17 @@
 
 - 🌱 I’m currently learning **ExpressJS**
 
-- 👯 I’m looking to collaborate on [Tha9fni.tn](https://github.com/TunisianProgrammingLovers/tha9fni.tn)
+- 👯 I’m looking to collaborate on [Tha9fni.tn](https://github.com/tunpl/tha9fni.tn)
 
 - 🤝 I’m looking for help with [FridayOS](https://github.com/elfalehdev/fridayOS)
 
 - 👨‍💻 All of my projects are available at [https://github.com/elfalehdev](https://github.com/elfalehdev)
 
-- 📝 I regularly write articles on [https://elfalehdev.github.io](https://elfalehdev.github.io)
+- 📝 I regularly write articles on [https://www.programmers.tn](https://www.programmers.tn)
 
 - 💬 Ask me about **ReactJS,SASS,SCSS,NodeJS**
 
-- 📫 How to reach me **mohamedelfaleh5@gmail.com**
+- 📫 How to reach me **mohamed@programmers.tn**
 
 - 📄 Know about my experiences [https://elfalehdev.github.io](https://elfalehdev.github.io)
 
