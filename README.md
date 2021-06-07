@@ -14,15 +14,15 @@
 ---
 ### 📢 Find me elsewhere
 <p align="center">
-  <a href="https://twitter.com/elfalehdev">
+  <a href="https://twitter.com/elfalehdev" target="_blank">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
-  <a href="https://www.linkedin.com/in/elfalehdev/">
+  <a href="https://www.linkedin.com/in/elfalehdev/" target="_blank" >
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://www.instagram.com/elfalehdev/" targe="_blank">
+  <a href="https://www.instagram.com/elfalehdev/" target="_blank">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
 
