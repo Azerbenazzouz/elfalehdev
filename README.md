@@ -1,25 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed E.Faleh</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elfalehdev&label=Profile%20views&color=0e75b6&style=flat" alt="elfalehdev" /> </p>
 
-- 🔭 I’m currently working on [Building A Community](https://github.com/Tunpl/)
 
-- 🌱 I’m currently learning **ExpressJS**
+<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F683421312180065756%2F&psig=AOvVaw0socVR5EAWIItZJUwDFbkr&ust=1623186484517000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiQn7TDhvECFQAAAAAdAAAAABAz">
 
-- 👯 I’m looking to collaborate on [Tha9fni.tn](https://github.com/tunpl/tha9fni.tn)
-
-- 🤝 I’m looking for help with [FridayOS](https://github.com/elfalehdev/fridayOS)
-
-- 👨‍💻 All of my projects are available at [https://github.com/elfalehdev](https://github.com/elfalehdev)
-
-- 📝 I regularly write articles on [https://www.programmers.tn](https://www.programmers.tn)
-
-- 💬 Ask me about **ReactJS,SASS,SCSS,NodeJS**
-
-- 📫 How to reach me **mohamed@programmers.tn**
-
-- 📄 Know about my experiences [https://elfalehdev.github.io](https://elfalehdev.github.io)
-
-- ⚡ Fun fact **I have a bunch of those, contact me if you wanna hear some!**
 <hr>
 
 ### 📝 Blogs posts
