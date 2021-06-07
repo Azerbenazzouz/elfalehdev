@@ -5,7 +5,19 @@
   
 <img align="center" src="https://i.pinimg.com/originals/17/56/d5/1756d52453b23ee778a7083b3469db2b.png" width="300" height="150">
 <hr>
-
+### 🔴 Things I'm working on 🧑‍💼 
+- Build a suited platform for the community we're creating. 
+- Build a platform for <a href="https://www.facebook.com/tha9fni" target="_blank"> Tha9fni</a>. 
+- Create Encrypting algorithms.
+- Starting A podcast based on Tunisian dialect to discuss multiple topics focusing on tech and programming.  
+- Work on my startup idea. 
+<hr>
+### 🟡 Things I'm learning 📑 
+- ExpressJS
+- Applied Cryptography 
+- Math (Linear Algebra, Arithmetique and Cryptography) 
+- 
+<hr>
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <a href="https://elfalehdev.github.io/content/programming/articles/codesmartcodeless/index.html" target="_blank"> Code smart, Code less </a>
