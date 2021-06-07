@@ -20,6 +20,7 @@
 - 📄 Know about my experiences [https://elfalehdev.github.io](https://elfalehdev.github.io)
 
 - ⚡ Fun fact **I have a bunch of those, contact me if you wanna hear some!**
+<hr>
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
