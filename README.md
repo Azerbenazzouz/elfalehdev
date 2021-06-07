@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elfalehdev&label=Profile%20views&color=0e75b6&style=flat" alt="elfalehdev" /> </p>
 
 
-<img align="left" src="https://i.pinimg.com/originals/17/56/d5/1756d52453b23ee778a7083b3469db2b.png">
+<img align="left" src="https://i.pinimg.com/originals/17/56/d5/1756d52453b23ee778a7083b3469db2b.png" width="300" height="300>
 
 <hr>
 
