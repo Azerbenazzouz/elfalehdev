@@ -4,7 +4,6 @@
 <p">Hello There 😃, My name is Mohamed Elfaleh and I'm a 19years Old Student - Developer. I've been dealing with web development since I was 13 years old. I work with MERN Stack which includes: MongoDB,ExpressJS,ReactJS(Sometimes TS),NodeJS. I also love 💖 Cryptography that's why I'm taking a break from web dev and discovering my potential in The field 🔥. I'm also a Content Creator working on a community for Tunisian 🇹🇳 Developers 💻 ✨. You can check the open source projects on <a href="https://www.github.com/tunpl/" target="_blank">GitHubOrg</a> ⬆️ I love dealing with different technologies and go in depth /discuss the technical details of each stack.  </p> 
   
 <img align="center" src="https://i.pinimg.com/originals/17/56/d5/1756d52453b23ee778a7083b3469db2b.png" width="300" height="150">
-<br> <br> <br> <br/> <br /> <br />
 <hr>
 
 ### 📝 Blogs posts
