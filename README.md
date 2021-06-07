@@ -3,7 +3,7 @@
 
 
 <img align="right" src="https://i.pinimg.com/originals/17/56/d5/1756d52453b23ee778a7083b3469db2b.png" width="300" height="300">
-<br> <br> <br>
+<br> <br> <br> <br/> <br /> <br />
 <hr>
 
 ### 📝 Blogs posts
