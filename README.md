@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I have a bunch of those, contact me if you wanna hear some!**
 
-### Blogs posts
+### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <a href="https://elfalehdev.github.io/content/programming/articles/codesmartcodeless/index.html" target="_blank"> Code smart, Code less </a>
 <!-- BLOG-POST-LIST:END -->
