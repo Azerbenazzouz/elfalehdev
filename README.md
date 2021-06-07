@@ -32,7 +32,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-### 📢 Find me elsewhere
+### 📢 Find me on: 🔻
 <p align="center">
   <a href="https://twitter.com/elfalehdev" target="_blank">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
