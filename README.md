@@ -15,6 +15,8 @@
 - Starting A podcast based on Tunisian dialect to discuss multiple topics focusing on tech and programming.  
 - Work on my startup idea. 
 <hr>
+
+
 ###  🟡 Things I'm learning 📑 
 - ExpressJS
 - Applied Cryptography 
