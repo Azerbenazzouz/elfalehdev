@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elfalehdev&label=Profile%20views&color=0e75b6&style=flat" alt="elfalehdev" /> </p>
 
 
-<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F683421312180065756%2F&psig=AOvVaw0socVR5EAWIItZJUwDFbkr&ust=1623186484517000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiQn7TDhvECFQAAAAAdAAAAABAz">
+<img align="left" src="https://i.pinimg.com/originals/17/56/d5/1756d52453b23ee778a7083b3469db2b.png">
 
 <hr>
 
