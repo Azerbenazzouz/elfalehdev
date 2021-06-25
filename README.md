@@ -4,5 +4,6 @@
 <p> <b>Job: </b>I'm a Full-Stack JS Developer - Crytographer - Noob Mathematician</p>
 <p> <b>Tech Stack: </b>MERN</p>
 <p> <b>Programming Languages: </b>JavaScript, Python, C++</p>
-<quote>I love reading, writing, playing chess and DC Comics</quote>
+<br />
+🟨 <quote>I love reading, writing, playing chess and DC Comics</quote>
 <br />
