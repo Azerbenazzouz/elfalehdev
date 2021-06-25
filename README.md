@@ -5,5 +5,5 @@
 <p> <b>Tech Stack: </b>MERN</p>
 <p> <b>Programming Languages: </b>JavaScript, Python, C++</p>
 <br />
-<quote>I love reading, writing, playing chess and DC Comics</quote>
+<quote>I love reading, writing and DC Comics</quote>
 <br />
