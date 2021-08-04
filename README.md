@@ -7,3 +7,4 @@
 <br />
 <quote>I love reading, writing and DC Comics.</quote>
 <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfalehdeva&show_icons=true&theme=dark)
