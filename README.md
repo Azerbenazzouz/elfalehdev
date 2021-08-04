@@ -4,8 +4,7 @@
 <p> <b>Job: </b>I'm a Full-Stack JS Developer - Cryptographer - Noob Mathematician</p>
 <p> <b>Tech Stack: </b>MERN</p>
 <p> <b>Programming & Scripting Languages: </b>JavaScript, Python, C/C++</p>
-<br />
-<quote>I love reading, writing and DC Comics.</quote> <br /> <br />
-
+<quote>I love reading, writing and DC Comics.</quote> 
+<br /> <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfalehdev&show_icons=true&theme=dark)
